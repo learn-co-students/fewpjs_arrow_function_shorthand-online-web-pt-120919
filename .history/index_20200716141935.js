@@ -6,6 +6,6 @@ let square = (num) => {
   return num ** 2
 }
 
-let add = (numOne, numTwo) => {
+let add = (numOne, numTwo) {
   return numOne + numTwo
 }
